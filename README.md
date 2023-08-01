@@ -1,7 +1,7 @@
 # github.io
-Still #so much# to discover and learn...
+Still ##so much## to discover and learn...
 
 --------------------------
 
-This [Topic File](todo_next.md) should be sorted a bit.
+This [Topic File](pages/todo_next.md) should be sorted a bit.
 
