@@ -1,5 +1,5 @@
 # github.io
-Still ##so much## to discover and learn...
+Still **so much** to discover and learn...
 
 --------------------------
 
