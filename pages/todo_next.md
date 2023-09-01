@@ -1,4 +1,4 @@
-# To Do Next
+# To Do Next (2023.09.01)
 
 ## Audacity 
 
@@ -20,13 +20,18 @@ Et pour faire un backtick au milieu ``il faut en faire `deux` au début et à la
 Et pour entrer un CRLF, il faut entrer 2 espaces en fin de ligne précédente.
 Sinon des lignes successives sont regroupées sur une seule ligne. 
 
-### Github
+### Markdown on Github
 
 https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 Indice  	H<sub>2</sub>O  
 Superscript 	X<sup>2</sup>  
 ...OK dans Chromium avec respectivement  `<sub>..</sub>` et `<sup>..</sup>`
+
+### Markdown and python 
+
+Voir : https://danpeirce.github.io/python_markdown.html
+
 
 
 ## Github.io
@@ -93,6 +98,14 @@ https://www.engineering.com/story/decoupling-capacitors-are-crucial-in-pcb-desig
 ## Ubuntu 
 
 A visiter :  https://appimage.github.io/apps/
+
+## Python
+
+A visiter :  https://www.fullstackpython.com/
+
+### Vim and Python
+
+https://justin.abrah.ms/vim/vim_and_python.html
 
 ### FlightGear à essayer ?
 
