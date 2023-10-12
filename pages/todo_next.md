@@ -1,6 +1,6 @@
 # To Do Next (2023.09.01)
 
-## Audacity 
+## Audacity
 
 voir l'AppImage dans Téléchargements.  
 Trouver une solution pour lire l'AIFF dans /home/pp/Musique/MobyGratis-18/   
@@ -16,9 +16,11 @@ Voir https://tenacityaudio.org
 https://www.markdownguide.org/basic-syntax/
 
 Backtick : `C'est l'accent grave`. Pour écrire du "code".  
-Et pour faire un backtick au milieu ``il faut en faire `deux` au début et à la fin``.  
-Et pour entrer un CRLF, il faut entrer 2 espaces en fin de ligne précédente.
-Sinon des lignes successives sont regroupées sur une seule ligne. 
+Et pour faire un backtick au milieu ``il faut en faire `deux` au début et à la fin``. (``)  
+
+Et pour entrer un CRLF, il faut entrer 2 espaces en fin de ligne précédente.  
+
+Sinon des lignes successives sont regroupées sur une seule ligne.
 
 ### Markdown on Github
 
@@ -28,7 +30,7 @@ Indice  	H<sub>2</sub>O
 Superscript 	X<sup>2</sup>  
 ...OK dans Chromium avec respectivement  `<sub>..</sub>` et `<sup>..</sup>`
 
-### Markdown and python 
+### Markdown and python
 
 Voir : https://danpeirce.github.io/python_markdown.html
 
@@ -61,7 +63,7 @@ Revoir : (https://github.com/ncarandini/KiCad-RP-Pico)
 https://code.visualstudio.com/docs/languages/html#:~:text=Does%20VS%20Code%20have%20HTML,of%20available%20HTML%20preview%20extensions.
 ... Emmet
 
-https://doc.ubuntu-fr.org/appimage     -> Voir "Désinstaller." 
+https://doc.ubuntu-fr.org/appimage     -> Voir "Désinstaller."
 
 https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html
 
@@ -81,7 +83,7 @@ https://www.youtube.com/watch?v=IlJnu-rXYOU&list=PL1P4z1vfrsq8KZ2mHqRBZg8aoftq_w
 
 
 ------------------------------------------------------------------------------------------
-PartDesign Répétition linéaire: 
+PartDesign Répétition linéaire:
 https://wiki.freecad.org/PartDesign_LinearPattern/fr
 
 FINIR DE DÉGRAISSER : /home/pp/dev/hw/FreeCAD-Docs-&-Parts-Library/parts_library/
@@ -95,7 +97,7 @@ decoupling-capacitors
 https://www.engineering.com/story/decoupling-capacitors-are-crucial-in-pcb-design
 
 
-## Ubuntu 
+## Ubuntu
 
 A visiter :  https://appimage.github.io/apps/
 
